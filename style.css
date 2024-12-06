@@ -1,0 +1,65 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
+.bigcont{
+    background-color:rgb(250, 226, 176);
+    height: 410px;
+    width: 400px;
+    margin-top: 100px;
+    margin-left: 550px;
+    border-radius: 20px;
+    border: 1px solid black;
+    box-shadow: 1px 1px;
+}
+
+.cont1{
+    padding-top: 20px;
+    padding-left: 140px;
+}
+
+
+
+.child1{
+    padding-left: 30px;
+    padding-top: 10px;
+
+}
+.child1 input{
+    padding-left: 170px;
+    padding-top: 10px;
+}
+.child2{
+    padding-left: 30px;
+}
+.child2 input{
+    padding-left: 170px;
+    padding-top: 10px;
+}
+
+.child3{
+    padding-left: 30px;
+}
+.child3 textarea{
+    padding-left: 170px;
+    padding-top: 60px;
+}
+.child4{
+    margin-left: 130px;
+    margin-top: 14px;
+    margin-right: 125px;
+    border-radius: 10px;
+    
+    
+    
+}
+.child4 input{
+    padding-left: 50px;
+    padding-top: 7px;
+    padding-right: 50px;
+    padding-bottom: 5px;
+    border-radius: 20px;
+
+    box-shadow: 2px 2px;
+}
